@@ -1,4 +1,4 @@
-# 11st Tests running dashboard.sitespeed.io
+# Tests running dashboard.sitespeed.io
 
 [![Build status][travis-image]][travis-url]
 
